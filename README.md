@@ -1,2 +1,2 @@
-# course2021
-2021 Course Website 
+# course2020
+This is a website for workshop 2020
