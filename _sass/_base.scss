@@ -115,8 +115,8 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    color: $blue-color;
+    border-left: 4px solid $blue-color-light;
     padding-left: $spacing-unit / 2;
     font-size: 18px;
     letter-spacing: -1px;
@@ -135,7 +135,7 @@ blockquote {
 pre,
 code {
     font-size: 14px;
-    border: 1px solid $grey-color-light;
+    border: 1px solid $blue-color-light;
     border-radius: 3px;
     background-color: #eef;
 }
@@ -205,7 +205,7 @@ pre {
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: $blue-color;
         }
     }
 }

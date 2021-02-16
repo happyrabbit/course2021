@@ -62,7 +62,7 @@
         top: 9px;
         right: 30px;
         background-color: $background-color;
-        border: 1px solid $grey-color-light;
+        border: 1px solid $blue-color-light;
         border-radius: 5px;
         text-align: right;
 
@@ -80,7 +80,7 @@
                 height: 15px;
 
                 path {
-                    fill: $grey-color-dark;
+                    fill: $blue-color-dark;
                 }
             }
         }
@@ -109,7 +109,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid $blue-color-light;
     padding: $spacing-unit 0;
 }
 
@@ -126,7 +126,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $blue-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -197,7 +197,7 @@
 
 .post-meta {
     font-size: $small-font-size;
-    color: $grey-color;
+    color: $blue-color;
 }
 
 .post-link {
