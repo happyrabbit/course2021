@@ -1,30 +1,29 @@
 # Site settings
 title: Data Science Workshop
-subtitle: Machine Learning, Deep Learning and Big Data
+subtitle: Introduction to Data Science, Machine Learning and Deep Learning
 description: |
-    Data can be a valuable asset, especially when there’s a lot of it. 
-    Exploratory data analysis, business intelligence, 
-    and machine learning can benefit tremendously if such big data 
-    can be wrangled and modelled at scale. 
-    Apache Spark is an open-source distributed engine for 
-    querying, processing and modeling big data. 
-    In this one-day workshop, you will learn how to leverage 
-    Spark and R/Python to process and model big data with 
-    common machine learning algorithm. By the end of this workshop, 
-    you will have a solid understanding of how to process big data using 
-    Spark and how to build common machine learning models in the cloud environment. 
-    You will also learn the motivation and use cases of deep learning through
-    hands-on exercises.  <br/>  
+    AI has manifested itself in all areas of our lives and is one of the most 
+    exciting and fast-growing fields of research and application in the world 
+    of data science. This course will provide an overview of using R and Python 
+    for some of the most popular machine learning and deep learning models in 
+    real-world data science applications in the cloud environment. 
+    The sessions will step through the basic theoretical concepts behind 
+    those models and mainly focus on applications. You will learn the motivation 
+    and use cases of these models through hands-on exercises. 
+    This short course's main topics are: big data cloud environment, 
+    tree-based models, regularization methods, feedforward neural network, 
+    convolutional neural network, and recurrent neural network. </br>
     </br>
-    This workshop is designed for audience with statistics education background. 
-    This course bridges the gap between traditional statisticians and data scientists. 
-    No software download or installation is needed, everything is done through 
-    laptop’s internet browser (Chrome or Firefox) with Databricks free cloud environment.
-    
+    This course is designed for audiences with a statistics education background, 
+    and it bridges the gap between traditional statisticians and data scientists. 
+    No software download or installation is needed, and everything is done 
+    through the internet browser with hands-on sessions in Databrick's 
+    cloud environment and Colab. </br>  
+
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "course2020.scientistcafe.com" # the base hostname & protocol for your site
-syllabus: "https://github.com/happyrabbit/course2020/blob/master/README.md"
-githubdir: "happyrabbit/course2020"
+url: "course2021.scientistcafe.com" # the base hostname & protocol for your site
+syllabus: "https://course2021.scientistcafe.com/course-syllabus/"
+githubdir: "happyrabbit/course2021"
 
 
 
