@@ -3,7 +3,7 @@ title: "Neural Networks and Deep Learning"
 author: '[Hui Lin](https://scientistcafe.com) @Google</br> </br> Ming Li @Amazon'
 output: 
   slidy_presentation: 
-    footer: "https://course2020.scientistcafe.com/"
+    footer: "https://course2021.scientistcafe.com/"
 ---
 
 ```{r setup, include=FALSE}
@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <center>
 <font size = "10">
-https://course2020.scientistcafe.com/
+https://course2021.scientistcafe.com/
 </font>
 </center>
 

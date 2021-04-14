@@ -3,7 +3,7 @@ title: "Convolutional Neural Network"
 author: '[Hui Lin](https://scientistcafe.com) @Google</br> </br> Ming Li @Amazon'
 output: 
   slidy_presentation: 
-    footer: "https://course2019.scientistcafe.com/"
+    footer: "https://course2021.scientistcafe.com/"
 ---
 
 ```{r setup, include=FALSE}
