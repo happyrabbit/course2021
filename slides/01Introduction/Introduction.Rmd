@@ -31,6 +31,20 @@ https://course2021.scientistcafe.com/
 <img src="https://media.giphy.com/media/PkVHsFmmLeBfa/giphy.gif" alt="HTML5 Icon" style="width:600px;height:400px;">
 </center>
 
+# The term no one really defined
+
+- Identity crisis is real in data science. And it is likely to exist for a long time. 
+    - data scientist
+    - applied scientist
+    - data analyst
+    - product analyst
+    - quant researcher
+    - quant analyst
+    - business analyst
+- The responsibility of a data science team is not always clear.
+    - You don't need to be in a data science team to be a data science professional. 
+- Data science today is a career direction rather than a discipline.
+
 # All companies claim to be data-driven, but they are different...
 
 <center>
