@@ -138,10 +138,6 @@ plot(graphLayout(dag))
 
 ![](images/bread.png){width=80%}
 
-# General Process of Modeling/Analytics
-
-![](http://scientistcafe.com/book/Figure/GeneralProcessEN.png){width=100%}
-
 # Some confusions and more to come
 
 - **Data infrastructure engineer**: _Go,Python, AWS/Google Cloud/Azure, logstash, Kafka, and Hadoop_
@@ -165,39 +161,6 @@ plot(graphLayout(dag))
 # Three tracks of data science
 
 <img src="images/tracks3.PNG" alt="HTML5 Icon" style="width:950px;height:550px;">
-
-# Types of Questions (Modeling/Analytics)
-
-- Comparison: 
-    - Are males more inclined to buy our products than females?
-    - Are there any differences in customer satisfaction in different business districts?
-    - Do soybean carrying a particular gene have higher oil content?
-
-- Description:
-    - Is the distribution of annual income normal?
-    - Are there outliers?
-    - What are the means of different customer segments?
-
-- Clustering:
-    - Which customers have similar product preferences? 
-    - Which printer performs a similar pattern to the broken ones?
-    - How many different themes are there in the corpus?
-
-# Types of Questions (Modeling/Analytics)
-
-- Classification:
-    - Who is more likely to buy our product?
-    - Is the borrower going to pay back?
-    - Is it spam?
-
-- Regression:
-    - What will be the temperature tomorrow?
-    - What is the projected net income for the next season?
-    - How much inventory should we have? 
-
-- Optimization:
-    - What is the best route to deliver the packages?
-    - What is the optimal advertisement strategy to promote a new product? 
 
 # Data Science Types v.s Needs
 
