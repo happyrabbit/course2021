@@ -128,23 +128,6 @@ If layer $l$ is a convolution layer:
 ![](../../../../IntroDataScience/images/eggshellconv.png){width=60%}
 
 
-# Examples: LeNet - 5
-
-![LeCun et al., 1998. Gradient-based learning applied to document recognition](images/LeNet5.png){width=90%}
-
-# Examples: LeNet - 5
-
-|  | Activation Shape |   Activation Size | # Parameters |
-|:---:|:---:|:---:|:---:|
-| Input | (32, 32, 1) | 1024 | 0|
-| CONV1 (f=5, s=1) | (28, 28, 6) | 6272 | $5 \times 5 \times 6 + 6 = 156$ |
-| POOL1 (f=2, s=2) | (14, 14, 6) | 1176 | 0 |
-| CONV2 (f=5, s=1) | (10, 10, 16) | 1600 | $5 \times 5 \times 6 \times 16 + 16 = 2416$ |
-| POOL2 (f=2, s=2) | (5, 5, 16) | 1176 | 0 |
-| FC3 | (120, 1) | 120 | $400 \times 120 + 1 = 48001$ |
-| FC4 | (84, 1) | 84 | $120 \times 84 + 1 = 10081$ |
-| Softmax | (10, 1) | 10 | $84 \times 10 +1 = 841$ |
-
 # Types of Layer in A Convolutional Network
 
 - Convolution
@@ -152,6 +135,30 @@ If layer $l$ is a convolution layer:
 - Pooling
 
 - Fully Connected
+
+# Classic CNNs: LeNet-5
+
+- LeNet-5:  LeCun et al., 1998. [Gradient-based learning applied to document recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+
+![](images/lenet5.png){width=80%}
+
+# Classic CNNs: AlexNet
+
+- AlexNet: Krizhevsky et al., 2012. [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+
+![](images/alexnet.png){width=80%}
+
+# Classic CNNs: VGG-16
+
+- VGG-16: Simonyan & Zisserman 2015. [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
+![](images/vgg16.png){width=70%}
+
+
+# Classic CNNs: ResNets
+
+- ResNets: He et al., 2015. [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
+
+![](images/ResNet.png){width=80%}
 
 # Using Keras To Build CNN
 
@@ -217,17 +224,6 @@ cnn_pred <- cnn_model %>%
 # Size of the Model
 
 ![](images/cnn_size.png){width=90%}
-
-
-# Effective CNNs
-
-- LeNet -5:  LeCun et al., 1998. [Gradient-based learning applied to document recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
-
-- AlexNet: Krizhevsky et al., 2012. [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-
-- VGG-16: Simonyan & Zisserman 2015. [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
-
-- ResNets: He et al., 2015. [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
 # Different Architecture Search Algorithms:
 
