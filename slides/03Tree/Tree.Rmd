@@ -74,7 +74,7 @@ $$\frac{3}{5}\times\frac{5}{18}+\frac{2}{5}\times 0=\frac{1}{6}$$
 
 # Splitting Criteria
 
-- **Entropy**: $Entropy=-plog_{2}p-(1-p)log_{2}(1-p)$
+- **Information Gain**: $Entropy=-plog_{2}p-(1-p)log_{2}(1-p)$
 
 <center>
 ![](../../../IntroDataScience/images/giniEN.PNG){width=40%}
@@ -87,6 +87,27 @@ The entropy of the split using variable "gender" can be calculated  in three ste
 1. Entropy for "Female" = $-\frac{5}{30}log_{2}\frac{5}{30}-\frac{25}{30}log_{2}\frac{25}{30}=0.65$
 2. Entropy for "Male" = $0\times1+1\times 0=0$
 3. Entropy for the node "Gender" is the weighted average of the above two entropy numbers: $\frac{3}{5}\times 0.65+\frac{2}{5}\times 0=0.39$
+
+# Splitting Criteria
+
+- Information gain is biased towards choosing attributes with many values
+
+- Information Gain Ratio (IGR):
+
+$$Gain\ Ratio = \frac{Information\ Gain}{Split\ Information}$$
+
+where split information is:
+
+$$Split\ Information = -\Sigma_{c = 1}^{C}p_clog(p_c)$$
+$p_c$ is the proportion of samples in category $c$. 
+
+# IG v.s IGR
+
+<center>
+![](../../../IntroDataScience/images/infogainratioexp.png){width=80%}
+
+![](../../../IntroDataScience/images/infogainratioexp2.png){width=80%}
+</center>
 
 # Splitting Criteria
 
