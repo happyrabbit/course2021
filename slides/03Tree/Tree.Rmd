@@ -104,9 +104,9 @@ $p_c$ is the proportion of samples in category $c$.
 # IG v.s IGR
 
 <center>
-![](../../../IntroDataScience/images/infogainratioexp.png){width=80%}
+![](../../../IntroDataScience/images/infogainratioexp.png){width=70%}
 
-![](../../../IntroDataScience/images/infogainratioexp2.png){width=80%}
+![](../../../IntroDataScience/images/infogainratioexp2.png){width=70%}
 </center>
 
 # Splitting Criteria
