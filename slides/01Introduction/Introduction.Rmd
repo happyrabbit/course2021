@@ -37,8 +37,7 @@ https://course2021.scientistcafe.com/
     - Applied scientist
     - Data analyst
     - Product analyst
-    - Quant researcher
-    - Quant **UX** researcher: [Quant UX Research at Google](https://scientistcafe.com/quant_uxr_external_one_pager.pdf), [We are hiring!](https://g.co/jobs/quantUXR)
+    - Quant (**UX**) researcher: [Quant UX Research at Google](https://scientistcafe.com/quant_uxr_external_one_pager.pdf), [We are hiring!](https://g.co/jobs/quantUXR)
     - Quant analyst
     - Business analyst
 - The responsibility of a data science team is not always clear.
