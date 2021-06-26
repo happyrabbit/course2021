@@ -32,7 +32,7 @@ https://course2021.scientistcafe.com/
 
 # The myth of data science
 
-- Identity crisis is real in data science. And it is likely to exist for a long time. 
+- Identity crisis is real in data science. And it will likely exist for a long time. 
     - Data scientist
     - Applied scientist
     - Data analyst
