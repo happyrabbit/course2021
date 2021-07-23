@@ -40,6 +40,8 @@ https://course2021.scientistcafe.com/
     - Quant (**UX**) researcher: [Quant UX Research at Google](https://scientistcafe.com/quant_uxr_external_one_pager.pdf), [We are hiring!](https://g.co/jobs/quantUXR)
     - Quant analyst
     - Business analyst
+    - Business intelligence engineer
+    - Analytics engineer (new to me!)
 - The responsibility of a data science team is not always clear.
     - You don't need to be in a data science team to be a data science professional. 
 - Many people in data science don't do machine learning.
