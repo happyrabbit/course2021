@@ -13,9 +13,9 @@ permalink: /course-syllabus/
 | Break | 10 mins |  |
 | Decision Tree | 30 mins |[Slides](https://course2021.scientistcafe.com/slides/03Tree/Tree.html) |
 | Decision Tree Hands-on | 20 mins | [R](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3981279215211072/2496792818540000/78755435857845/latest.html), [Local R](https://scientistcafe.com/ids/r/ch11), [Python](https://github.com/happyrabbit/IntroDataScience/blob/master/Python/TreeBasedModels.ipynb)  |
+
 |  |  |  |
-| Feedforward Neural Network (FFNN) | 60 mins | 
-[Slides](https://course2021.scientistcafe.com/slides/02DeepLearning/DNN/DNN_Intro.html)   |
+| Feedforward Neural Network (FFNN) | 60 mins | [Slides](https://course2021.scientistcafe.com/slides/02DeepLearning/DNN/DNN_Intro.html)|
 | Convolutional Neural Network (CNN) | 30 mins | [Slides](https://course2021.scientistcafe.com/slides/02DeepLearning/CNN/CNN_Intro.html)   |
 | Break | 10 mins |  |
 | Recurrent Neural Network (RNN) | 20 mins | [RNN Introduction](https://course2021.scientistcafe.com/slides/02DeepLearning/RNN/RNN_Intro.html), [Embedding](https://course2021.scientistcafe.com/slides/02DeepLearning/RNN/RNN_Embedding.html) |
