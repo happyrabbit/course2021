@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-author: '[Hui Lin](https://scientistcafe.com) @Google</br> </br> Ming Li @Amazon'
+author: '[Hui Lin](https://scientistcafe.com)  and Ming Li '
 output:
   slidy_presentation:
   ioslides_presentation: default
@@ -37,10 +37,11 @@ https://course2021.scientistcafe.com/
     - Applied scientist
     - Data analyst
     - Product analyst
-    - Quant (**UX**) researcher: [Quant UX Research at Google](https://scientistcafe.com/quant_uxr_external_one_pager.pdf), [We are hiring!](https://g.co/jobs/quantUXR)
+    - Quant **UX** researcher: [Quant UX Research at Google](https://scientistcafe.com/quant_uxr_external_one_pager.pdf), [We are hiring!](https://g.co/jobs/quantUXR)
+    - Quant researcher
     - Quant analyst
     - Business analyst
-    - Business intelligence engineer
+    - Business intelligence (BI) engineer
     - Analytics engineer (new to me!)
 - The responsibility of a data science team is not always clear.
     - You don't need to be in a data science team to be a data science professional. 
@@ -180,6 +181,9 @@ plot(graphLayout(dag))
 
 # Some links
 
+- Recordings for this course (old versions):
+    - [YouTube play list](https://www.youtube.com/watch?v=agjXuz6yg58&list=PLrxpaVil9qi88zNWlcWIRhlYfTEygTBTZ)
+    - [2021 SMI Conference - Session 1: Introduction to Deep Learning Short Course](https://www.youtube.com/watch?v=agjXuz6yg58&list=PLrxpaVil9qi88zNWlcWIRhlYfTEygTBTZ), [website](https://smi2021.scientistcafe.com/)
 - [Introduction to Data Science](http://scientistcafe.com/IDS/) (reviewing): the content of the workshop is in this book. Here is the [GitHub](https://github.com/happyrabbit/IntroDataScience/blob/master/README.md) for the book with links to code notebooks.
 - [Awesome-Data-Science-Materials](https://github.com/happyrabbit/Awesome-Data-Science-Materials)
 - [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
