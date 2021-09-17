@@ -1,6 +1,6 @@
 ---
 title: "Convolutional Neural Network"
-author: '[Hui Lin](https://scientistcafe.com) @Google</br> </br> Ming Li @Amazon'
+author: '[Hui Lin](https://scientistcafe.com) and Ming Li'
 output: 
   slidy_presentation: 
     footer: "https://course2021.scientistcafe.com/"
